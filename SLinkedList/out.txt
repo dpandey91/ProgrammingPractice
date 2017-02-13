@@ -1,0 +1,12 @@
+Elements are:
+60 50 40 10 20 30 
+Elements are:
+50 40 10 20 30 
+Elements are:
+50 40 10 20 
+Elements are:
+50 
+Elements are:
+
+Elements are:
+80 70 
